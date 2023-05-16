@@ -1,0 +1,2 @@
+Application Version: ${csixframework.version}
+Spring Boot Version: ${spring-boot.version}
